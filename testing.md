@@ -3,8 +3,12 @@
 #### Tables des matières
 
   * [TNT (DVB-T)](testing.md#i-tnt-dvb-t)
+  * [BISTV (DVB-S/S2) - Eutelsat 5°W](testing.md#ii-freebox-adslfibre)
+  * [TNTSAT (DVB-S/S2) - Astra 19,2°E](testing.md#ii-freebox-adslfibre)
+  * [TELESAT (DVB-S/S2) - Astra 19,2°E](testing.md#ii-freebox-adslfibre)
+  * [TELESAT (DVB-S/S2) - Hotbird 13°E](testing.md#ii-freebox-adslfibre)
+  * [SSR/SRG (DVB-S/S2) - Hotbird 13°E](testing.md#ii-freebox-adslfibre)
   * [Freebox (ADSL/Fibre)](testing.md#ii-freebox-adslfibre)
-
 ##### Légendes :
 
 Acronyme | Définition
@@ -28,6 +32,9 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **France 3** | **1440x1080** | **MPEG-4** | **FRA** | **MP2** | **2.0** | **192 Kbps**
 |||| QAD | MP2 | 2.0 | 192 Kbps
+**Canal+** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **1.0** | **128 Kbps**
+|||| ENG | E-AC3 | 2.0 | 128 Kbps
+|||| QAD | E-AC3 | 2.0 | 128 Kbps
 **France 5** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **M6** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **5.1** | **192 Kbps**
@@ -51,17 +58,47 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 **NRJ12** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| ENG | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
+**LCP** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 **France 4** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| ENG | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
+**BFM TV** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+**i>télé** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+**D17** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+|||| ENG | E-AC3 | 2.0 | 128 Kbps
+**Gulli** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+|||| ENG | E-AC3 | 2.0 | 128 Kbps
+|||| QAD | E-AC3 | 2.0 | 128 Kbps
+**France Ô** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+|||| QAD | E-AC3 | 2.0 | 128 Kbps
+**HD1** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+|||| QAA | E-AC3 | 2.0 | 128 Kbps
+|||| QAD | E-AC3 | 2.0 | 96 Kbps
+**L'Equipe 21** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+|||| QAD | E-AC3 | 2.0 | 96 Kbps
 **6ter** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **5.1** | **192 Kbps**
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **Numéro 23** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
+**RMC Découverte** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+|||| QAA | E-AC3 | 2.0 | 128 Kbps
+|||| QAD | E-AC3 | 2.0 | 96 Kbps
+**Chérie 25** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+|||| QAA | E-AC3 | 2.0 | 128 Kbps
+|||| QAD | E-AC3 | 2.0 | 96 Kbps
+**LCI** | **720x576** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 
-### II. Freebox (ADSL/Fibre)
+### II. BISTV (DVB-S/S2) - Eutelsat 5°W
+
+### III. TNTSAT (DVB-S/S2) - Astra 19,2°E
+
+### IV. TELESAT (DVB-S/S2) - Astra 19,2°E
+
+### V. TELESAT (DVB-S/S2) - Hotbird 13°E
+
+### VI. Freebox (ADSL/Fibre)
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -83,4 +120,5 @@ Arte HD | 1440x1080 | MPEG-4 | fre | AAC | 2.0 | 64 Kbps
 |||| QAA || 1.0 | 48 Kbps
 |||| GER || 2.0 | 64 Kbps
 |||| QAD || 1.0 | 48 Kbps
+
 
