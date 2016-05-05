@@ -7,7 +7,7 @@
 * QAA = *Version original*
 * QAD = *Audio-description*
 * GER = *Piste allemande*
-* ENG = *Piste anglaise*
+* VOL = *Piste originale*
 * ITA = *Piste italienne*
 * **TF1** = *Piste principale*
 
@@ -33,7 +33,7 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| deu | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **D8** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
-|||| ENG | E-AC3 | 2.0 | 128 Kbps
+|||| VOL | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **W9** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **5.1** | **192 Kbps**
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
@@ -42,12 +42,12 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 **NT1** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
-|||| ENG | E-AC3 | 2.0 | 128 Kbps
+|||| VOL | E-AC3 | 2.0 | 128 Kbps
 **NRJ12** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
-|||| ENG | E-AC3 | 2.0 | 128 Kbps
+|||| VOL | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 **FRAnce 4** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
-|||| ENG | E-AC3 | 2.0 | 128 Kbps
+|||| VOL | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **6ter** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **5.1** | **192 Kbps**
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
