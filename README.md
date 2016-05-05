@@ -9,7 +9,7 @@
   * [TELESAT (DVB-S/S2) - Hotbird 13°E](testing.md#ii-freebox-adslfibre)
   * [SSR/SRG (DVB-S/S2) - Hotbird 13°E](testing.md#ii-freebox-adslfibre)
   * [Freebox (ADSL/Fibre)](testing.md#ii-freebox-adslfibre)
-  * 
+ 
 ##### Légendes :
 
 Acronyme | Définition
