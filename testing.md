@@ -2,13 +2,14 @@
 
 ##### Légendes :
 
-	* BD = Bas Débit
-	* FRA = Piste Française
-	* QAA = Version original
-	* QAD = Audiodescritpion
-	* GER = Piste Allemande
-	* ENG = Piste Anglaise
-	* ITA = Piste Italienne
+* BD = Bas Débit
+* FRA = Piste Française
+* QAA = Version original
+* QAD = Audiodescritpion
+* GER = Piste Allemande
+* ENG = Piste Anglaise
+* ITA = Piste Italienne
+* **TF1** = Piste principale
 
 #### TNT (DVB-T)
 
@@ -17,12 +18,12 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 **TF1** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128Kbps**
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
-**FRAnce 2** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+**France 2** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
-**FRAnce 3** | **1440x1080** | **MPEG-4** | **FRA** | **MP2** | **2.0** | **192 Kbps**
+**France 3** | **1440x1080** | **MPEG-4** | **FRA** | **MP2** | **2.0** | **192 Kbps**
 |||| QAD | MP2 | 2.0 | 192 Kbps
-**FRAnce 5** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+**France 5** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **M6** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **5.1** | **192 Kbps**
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
