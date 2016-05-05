@@ -11,7 +11,7 @@
 * ITA = *Piste italienne*
 * **TF1** = *Piste principale*
 
-### TNT (DVB-T)
+### 1.TNT (DVB-T)
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -56,7 +56,7 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 
-### Freebox (ADSL/Fibre)
+### 2.Freebox (ADSL/Fibre)
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
