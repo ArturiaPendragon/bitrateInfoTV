@@ -41,7 +41,7 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| ENG | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **BFM TV** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
-**i>télé** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
+**i>TÉLÉ** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 **D17** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| ENG | E-AC3 | 2.0 | 128 Kbps
 **Gulli** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
