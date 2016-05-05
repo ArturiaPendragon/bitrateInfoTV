@@ -79,7 +79,7 @@ Chérie 25 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
 LCP | 704x576 | MPEG-4 | FRA | MP2| 2.0 | 128 Kbps
 AB1 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 192 Kbps
 |||| QAA | E-AC3 | 2.0 | 192 Kbps
-AB1 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 192 Kbps
+Animaux | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 192 Kbps
 |||| ENG | MP2 | 2.0 | 192 Kbps
 Chasse & péche | 704x576 | MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
 Equidia Live | 704x576 | MPEG-2 | FRA | AC3 | 2.0 | 192 Kbps
@@ -88,7 +88,7 @@ RTL9 | 1920x1080 | MPEG-4 | FRA | AC3 | 5.1 | 384 Kbps
 Science & Vie TV | 1920x1080| MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
 Toute l’histoire | 704x576 | MPEG-2 | FRA | AC3 | 2.0 | 192 Kbps
 Trek | 1920x1080| MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
-TV5 Monde | 704x576 | MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
+TV5 Monde FBS | 704x576 | MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
 TV5 Monde Europe | 704x576 | MPEG-2 | FRA | MP2 | 2.0 | 192 Kbps
 8 Mont Blanc | 704x576 | MPEG-2 | FRA | MP2 | 2.0 | 192 Kbps
 Téva | 704x576 | MPEG-2 | FRA | MP2 | 2.0 | 192 Kbps
