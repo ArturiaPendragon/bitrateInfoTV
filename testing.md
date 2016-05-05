@@ -21,21 +21,29 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| qaa | E-AC3 | 2.0 | 128 Kbps
 |||| deu | E-AC3 | 2.0 | 128 Kbps
 |||| qad | E-AC3 | 2.0 | 128 Kbps
-
-D8 | 1920x1080 | MPEG-4 | fra/eng/qad | E-AC3 | 2.0 | 128/128/128 Kbps
-D8 | 1920x1080 | MPEG-4 | fra/eng/qad | E-AC3 | 2.0 | 128/128/128 Kbps
-D8 | 1920x1080 | MPEG-4 | fra/eng/qad | E-AC3 | 2.0 | 128/128/128 Kbps
-W9 | 1440x1080 | MPEG-4 | fra/qaa/qad | E-AC3 | 5.1/2.0 | 192/128/128 Kbps
-W9 | 1440x1080 | MPEG-4 | fra/qaa/qad | E-AC3 | 5.1/2.0 | 192/128/128 Kbps
-W9 | 1440x1080 | MPEG-4 | fra/qaa/qad | E-AC3 | 5.1/2.0 | 192/128/128 Kbps
-TMC | 1920x1080 | MPEG-4 | fra/qaa/qad | E-AC3 | 2.0 | 128/128/96 Kbps
-TMC | 1920x1080 | MPEG-4 | fra/qaa/qad | E-AC3 | 2.0 | 128/128/96 Kbps
-TMC | 1920x1080 | MPEG-4 | fra/qaa/qad | E-AC3 | 2.0 | 128/128/96 Kbps
-NT1 | 1920x1080 | MPEG-4 | fra/eng | E-AC3 | 2.0 | 128/128 Kbps
-NRJ12 | 1920x1080 | MPEG-4 | fra/eng/qad | E-AC3 | 2.0 | 128/128/96 Kbps
-France 4 | 1440x1080 | MPEG-4 | fra/eng/qad | E-AC3 | 2.0 | 128/128/128 Kbps
-6ter | 1440x1080 | MPEG-4 | fra/qaa/qad | E-AC3 | 5.1/2.0 | 192/128/128 Kbps
-Numéro 23 | 1920x1080 | MPEG-4 | fra/qaa/qad | E-AC3 | 2.0 | 128/128/96 Kbps
+**D8** | **1920x1080** | **MPEG-4** | **fra** | **E-AC3** | **2.0** | **128 Kbps**
+|||| eng | E-AC3 | 2.0 | 128 Kbps
+|||| qad | E-AC3 | 2.0 | 128 Kbps
+**W9** | **1440x1080** | **MPEG-4** | **fra** | **E-AC3** | **5.1** | **192 Kbps**
+|||| qaa | E-AC3 | 2.0 | 128 Kbps
+|||| qad | E-AC3 | 2.0 | 128 Kbps
+**TMC** | **1920x1080** | **MPEG-4** | **fra** | **E-AC3** | **2.0** | **128 Kbps**
+|||| qaa | E-AC3 | 2.0 | 128 Kbps
+|||| qad | E-AC3 | 2.0 | 96 Kbps
+**NT1** | **1920x1080** | **MPEG-4** | **fra** | **E-AC3** | **2.0** | **128 Kbps**
+|||| eng | E-AC3 | 2.0 | 128 Kbps
+**NRJ12** | **1920x1080** | **MPEG-4** | **fra** | **E-AC3** | **2.0** | **128 Kbps**
+|||| eng | E-AC3 | 2.0 | 128 Kbps
+|||| qad | E-AC3 | 2.0 | 96 Kbps
+**France 4** | **1440x1080** | **MPEG-4** | **fra** | **E-AC3** | **2.0** | **128 Kbps**
+|||| eng | E-AC3 | 2.0 | 128 Kbps
+|||| qad | E-AC3 | 2.0 | 128 Kbps
+**6ter** | **1440x1080** | **MPEG-4** | **fra** | **E-AC3** | **5.1** | **192 Kbps**
+|||| qaa | E-AC3 | 2.0 | 128 Kbps
+|||| qad | E-AC3 | 2.0 | 128 Kbps
+**Numéro 23** | **1920x1080** | **MPEG-4** | **fra** | **E-AC3** | **2.0** | **128 Kbps**
+|||| qaa | E-AC3 | 2.0 | 128 Kbps
+|||| qad | E-AC3 | 2.0 | 96 Kbps
 
 #### Freebox (ADSL/Fibre)
 
