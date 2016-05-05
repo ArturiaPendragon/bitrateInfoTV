@@ -3,7 +3,7 @@
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<center>TF1</center> | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
+->TF1<- | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
 |||| ENG | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 France 2 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
