@@ -2,14 +2,14 @@
 
 ##### Légendes :
 
-* BD = Bas Débit
-* FRA = Piste Française
-* QAA = Version original
-* QAD = Audiodescritpion
-* GER = Piste Allemande
-* ENG = Piste Anglaise
-* ITA = Piste Italienne
-* **TF1** = Piste principale
+* BD = *Bas débit*
+* FRA = *Piste française*
+* QAA = *Version original*
+* QAD = *Audio-description*
+* GER = *Piste allemande*
+* ENG = *Piste anglaise*
+* ITA = *Piste italienne*
+* **TF1** = *Piste principale*
 
 #### TNT (DVB-T)
 
