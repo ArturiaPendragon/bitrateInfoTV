@@ -73,7 +73,7 @@ RTL9 | 1920x1080 | MPEG-4 | FRA | AC3 | 5.1 | 384 Kbps
 Science & Vie TV | 1920x1080| MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
 Toute l’histoire | 704x576 | MPEG-2 | FRA | AC3 | 2.0 | 192 Kbps
 Trek | 1920x1080| MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
-TV5 Monde France, Belgique, Suisse | 704x576 | MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
+TV5 Monde | 704x576 | MPEG-4 | FRA | AC3 | 2.0 | 192 Kbps
 TV5 Monde Europe | 704x576 | MPEG-2 | FRA | MP2 | 2.0 | 192 Kbps
 8 Mont Blanc | 704x576 | MPEG-2 | FRA | MP2 | 2.0 | 192 Kbps
 Téva | 704x576 | MPEG-2 | FRA | MP2 | 2.0 | 192 Kbps
