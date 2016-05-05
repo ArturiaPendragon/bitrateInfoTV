@@ -6,7 +6,7 @@
 
 - [x] Ajouté les chaines TNT (DVB-T)
 - [x] Ajouté les chaines BISTV (DVB-S/S2) - Eutelsat 5°W
-- [ ] Ajouté les chaines TNTSAT (DVB-S/S2) - Astra 19,2°E
+- [x] Ajouté les chaines TNTSAT (DVB-S/S2) - Astra 19,2°E
 - [ ] Ajouté les chaines TELESAT (DVB-S/S2) - Astra 19,2°E
 - [ ] Ajouté les chaines TELESAT (DVB-S/S2) - Hotbird 13°E
 - [ ] Ajouté les chaines SSR/SRG (DVB-S/S2) - Hotbird 13°E
