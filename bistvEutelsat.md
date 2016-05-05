@@ -1,5 +1,6 @@
 ### BISTV (DVB-S/S2) - Eutelsat 5°W
 <center>
+
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 TF1 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
@@ -85,4 +86,5 @@ Manga | 704x576 | MPEG-2 | FRA | MP2 | 2.0 | 192 Kbps
 Vosges Télévision | 704x576 | MPEG-2 | FRA | MP2 | 2.0 | 192 Kbps
 BFM Business | 704x576 | MPEG-4 | FRA | MP2 | 2.0 | 192 Kbps
 M6 Boutique & Co | 704x576 | MPEG-4 | FRA | MP2 | 2.0 | 192 Kbps
+
 </center>
