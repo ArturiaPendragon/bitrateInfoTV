@@ -2,8 +2,8 @@
 
 #### Tables des matières
 
-  * [I. TNT (DVB-T)](testing.md#i-tnt-dvb-t)
-  * [II. Freebox (ADSL/Fibre)](testing.md#ii-freebox-adslfibre)
+  * [TNT (DVB-T)](testing.md#i-tnt-dvb-t)
+  * [Freebox (ADSL/Fibre)](testing.md#ii-freebox-adslfibre)
 
 ##### Légendes :
 
