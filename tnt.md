@@ -1,12 +1,3 @@
-Acronyme | Définition
--------- | ----------
-BD | Bas débit
-FRA | Piste française
-GER | Piste allemande
-ENG | Piste originale ou anglaise
-QAA | Piste originale
-QAD | Piste d'audio-description
-
 ## I. TNT (DVB-T)
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
