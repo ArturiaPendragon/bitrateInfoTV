@@ -2,8 +2,8 @@
 
 #### Tables des matières
 
-[I. TNT (DVB-T)](../blob/master/LICENSE)
-[II. Freebox (ADSL/Fibre)](../blob/master/LICENSE)
+  * [I. TNT (DVB-T)](../blob/master/testing.md#i-tnt-dvb-t)
+  * [II. Freebox (ADSL/Fibre)](../blob/master/LICENSE)
 
 ##### Légendes :
 
