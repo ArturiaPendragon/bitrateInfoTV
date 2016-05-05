@@ -1,8 +1,8 @@
 ### BISTV (DVB-S/S2) - Eutelsat 5°W
 <center>
 
-Chaine :|: Résolution :|: Codec :|: Langues :|: Codec audio :|: Canaux :|: Débits
-------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
 TF1 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
 |||| ENG | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
