@@ -2,16 +2,12 @@
 
 ##### Légendes :
 
-* BD = *Bas débit*
-* FRA = *Piste française*
-* QAA = *Version original*
-* QAD = *Audio-description*
-* GER = *Piste allemande*
-* ENG = *Piste originale*
-* ITA = *Piste italienne*
-* **TF1** = *Piste principale*
+* BD = *Bas débit*  * GER = *Piste allemande*
+* FRA = *Piste française* * ENG = *Piste originale*
+* QAA = *Version original* * ITA = *Piste italienne*
+* QAD = *Audio-description* * **TF1** = *Piste principale*
 
-### 1.TNT (DVB-T)
+### I. TNT (DVB-T)
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -56,7 +52,7 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 
-### 2.Freebox (ADSL/Fibre)
+### II. Freebox (ADSL/Fibre)
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
