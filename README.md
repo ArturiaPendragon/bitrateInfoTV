@@ -1,4 +1,4 @@
-## Débits des chaines Française sur DVB-S / DVB-T / DVB-C
+## Débits des chaines francophone sur DVB-S / DVB-T / DVB-C
 
 #### Tables des matières
 
