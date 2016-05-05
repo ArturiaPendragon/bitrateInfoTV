@@ -1,4 +1,4 @@
-## I. TNT (DVB-T)
+## TNT (DVB-T)
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
