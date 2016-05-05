@@ -1,5 +1,10 @@
 ## Débits des chaines Française sur DVB-S / DVB-T / DVB-C
 
+#### Tables des matières
+
+[I. TNT (DVB-T)](../blob/master/LICENSE)
+[II. Freebox (ADSL/Fibre)](../blob/master/LICENSE)
+
 ##### Légendes :
 
 Acronyme | Définition
