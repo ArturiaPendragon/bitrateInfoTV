@@ -2,10 +2,14 @@
 
 ##### Légendes :
 
-* BD = *Bas débit*  * GER = *Piste allemande*
-* FRA = *Piste française* * ENG = *Piste originale*
-* QAA = *Version original* * ITA = *Piste italienne*
-* QAD = *Audio-description* * **TF1** = *Piste principale*
+Acronyme | Définition
+-------- | ----------
+BD | Bas débit
+FRA | Piste française
+GER | Piste allemande
+ENG | Piste originale ou anglaise
+QAA | Piste originale
+QAD | Piste d'audio-description
 
 ### I. TNT (DVB-T)
 
