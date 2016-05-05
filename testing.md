@@ -30,7 +30,7 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **Arte** | **1440x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
-|||| deu | E-AC3 | 2.0 | 128 Kbps
+|||| GER | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
 **D8** | **1920x1080** | **MPEG-4** | **FRA** | **E-AC3** | **2.0** | **128 Kbps**
 |||| VOL | E-AC3 | 2.0 | 128 Kbps
