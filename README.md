@@ -35,21 +35,13 @@
 
 ##### Légendes :
 
-Acronyme | Définition
--------- | ----------
-ARA | Piste arabe
-ARM | Piste arménienne
-BD | Bas débit
-CHI | Piste chinoise
-ENG | Piste originale ou anglaise
-FRA | Piste française
-GER | Piste allemande
-MAN | Piste en mandarin
-POR | Piste portugaise
-QAA | Piste originale
-QAD | Piste d'audio-description
-ROU | Piste roumaine
-RUS | Piste russe
-SPA | Piste espagnol
-TUR | Piste turque
-VIE | Piste vietnamienne
+Acronyme | Définition | Acronyme | Définition
+:--------: | :----------: | :-----: | :----:
+ARA | Piste arabe | POR | Piste portugaise
+ARM | Piste arménienne | QAA | Piste originale
+BD | Bas débit | QAD | Piste d'audio-description
+CHI | Piste chinoise | ROU | Piste roumaine
+ENG | Piste originale ou anglaise | RUS | Piste russe
+FRA | Piste française | SPA | Piste espagnol
+GER | Piste allemande | TUR | Piste turque
+MAN | Piste en mandarin | VIE | Piste vietnamienne
