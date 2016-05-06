@@ -11,7 +11,7 @@
 - [ ] Ajouté les chaines TELESAT (DVB-S/S2) - Hotbird 13°E
 - [ ] Ajouté les chaines SSR/SRG (DVB-S/S2) - Hotbird 13°E
 - [ ] Ajouté les chaines Freebox (ADSL/Fibre)
-
+- [ ] Ajouté les chaines Bell Fibe (ADSL/Fibre)
 
 ----------
 
