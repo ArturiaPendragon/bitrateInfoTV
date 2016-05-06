@@ -33,10 +33,12 @@
 
 Acronyme | Définition
 -------- | ----------
+ARA | Piste Arabe
 BD | Bas débit
+ENG | Piste originale ou anglaise
 FRA | Piste française
 GER | Piste allemande
-ENG | Piste originale ou anglaise
 QAA | Piste originale
 QAD | Piste d'audio-description
+TUR | Piste turque
 
