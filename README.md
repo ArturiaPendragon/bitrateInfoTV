@@ -40,7 +40,7 @@ CHI | Piste chinoise
 ENG | Piste originale ou anglaise
 FRA | Piste française
 GER | Piste allemande
-MAN | Piste mandarin
+MAN | Piste en mandarin
 POR | Piste portugaise
 QAA | Piste originale
 QAD | Piste d'audio-description
