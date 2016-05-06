@@ -17,17 +17,17 @@
 
 #### Tables des matières
 
-  * Hertzien et câble DVB-T
+  * I. Hertzien et câble DVB-T
 	* [TNT (DVB-T)](doc/tnt.md)
 
-  * Satellite
+  * II. Satellite
   	* [BISTV (DVB-S/S2) - Eutelsat 5°W](doc/bistvEutelsat.md)
   	* [TNTSAT (DVB-S/S2) - Astra 19,2°E](doc/tntsatAstra.md)
   	* [TELESAT (DVB-S/S2) - Astra 19,2°E](doc/telesatAstra.md)
   	* [TELESAT (DVB-S/S2) - Hotbird 13°E](doc/telesatHotbird.md)
   	* [SSR/SRG (DVB-S/S2) - Hotbird 13°E](doc/ssrsrgHotbird.md)
-  	
-  * ADSL/Fibre
+
+  * III. ADSL/Fibre
   	* [Freebox (ADSL/Fibre)](doc/freebox.md)
   	* [Bell Télé Fibe (ADSL/Fibre)](doc/bellFibe.md) 
 
