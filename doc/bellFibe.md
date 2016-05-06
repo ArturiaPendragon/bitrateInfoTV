@@ -1,4 +1,4 @@
-### Bell Fibe (ADSL/Fibre)
+### Bell Fibre (Fibre)
 
 ----------
 
@@ -12,7 +12,7 @@
   * [TELESAT (DVB-S/S2) - Hotbird 13°E](doc/telesatHotbird.md)
   * [SSR/SRG (DVB-S/S2) - Hotbird 13°E](doc/ssrsrgHotbird.md)
   * [Freebox (ADSL/Fibre)](doc/freebox.md)
-  * [Bell Fibe (ADSL/Fibre)](doc/bellFibe.md) 
+  * [Bell Fibre (Fibre)](doc/bellFibre.md) 
 
 ----------
 
