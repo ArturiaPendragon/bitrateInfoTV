@@ -14,3 +14,15 @@
   * [Bell Fibe (ADSL/Fibre)](bellFibe.md) 
 
 ----------
+
+Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
+|:---: | :---: | :---: | :---: | :---: | :---: | :---:|
+AddickTV |||||||
+RadioCanada |||||||
+Serieplus |||||||
+SuperEcran 1 |||||||
+SuperEcran 2 |||||||
+SuperEcran 3 |||||||
+SuperEcran 4 |||||||
+VrakTV |||||||
+Ztélé |||||||
