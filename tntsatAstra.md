@@ -17,20 +17,20 @@
 | Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 TF1 | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 Kbps
-|||| QAA | AC-3 | 2.0 | 192 Kbps
-|||| QAD | AC-3 | 2.0 | 192 Kbps
-France 2 | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 Kbps
-|||| QAA | AC-3 | 2.0 | 192 Kbps
-|||| QAD | AC-3 | 2.0 | 192 Kbps
-France 3 | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 Kbps
-|||| QAA | AC-3 | 2.0 | 192 Kbps
-Canal + | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 Kbps
-|||| QAA | AC-3 | 2.0 | 192 Kbps
-France 5 | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 Kbps
-|||| QAA | AC-3 | 2.0 | 192 Kbps
-M6 | 1920x1080 | MPEG-4 | FRA | AC-3 | 5.1 | 384 Kbps
-|||| QAA | AC-3 | 2.0 | 192 Kbps
-|||| QAD | AC-3 | 2.0 | 192 Kbps
+|||| QAA | / | / | / 
+|||| QAD | / | / | /
+France 2 | / | / | FRA | / | / | /
+|||| QAA | / | / | /
+|||| QAD | / | / | /
+France 3 | / | / | / | / | / | /
+|||| QAA | / | / | /
+Canal + | / | / | / | / | / | /
+|||| QAA | / | / | /
+France 5 | / | / | / | / | / | /
+|||| QAA | / | / | /
+M6 | / | / | / | / | 5.1 | 384 Kbps
+|||| QAA | / | / | /
+|||| QAD | / | / | /
 Arte | 1920x1080 | MPEG-4 | FRA | AC-3 | 5.1 | 384 Kbps
 |||| QAA | AC-3 | 2.0 | 192 Kbps
 |||| GER | AC-3 | 2.0 | 192 Kbps
