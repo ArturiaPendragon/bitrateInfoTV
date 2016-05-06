@@ -33,12 +33,19 @@
 
 Acronyme | Définition
 -------- | ----------
-ARA | Piste Arabe
+ARA | Piste arabe
+ARM | Piste arménienne
 BD | Bas débit
+CHI | Piste chinoise
 ENG | Piste originale ou anglaise
 FRA | Piste française
 GER | Piste allemande
+MAN | Piste mandarin
+POR | Piste portugaise
 QAA | Piste originale
 QAD | Piste d'audio-description
+ROU | Piste roumaine
+RUS | Piste russe
+SPA | Piste espagnol
 TUR | Piste turque
-
+VIE | Piste vietnamienne
