@@ -15,7 +15,7 @@
 
 ----------
 
-#### Chaine Allemande
+	* Chaine Allemande
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |:---: | :---: | :---: | :---: | :---: | :---: | :---:|
@@ -28,7 +28,7 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 **SRF Info** | **1280x720** | **MPEG-4** | **GER** | **AC-3** | **2.0** | **192 Kbps**
 |||| *GER* | *MP2* | *2.0* | *192 Kbps*
 
-#### Chaine Suisse
+	* Chaine Suisse
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |:---: | :---: | :---: | :---: | :---: | :---: | :---:|
@@ -39,7 +39,7 @@ Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |||| *FRA* | *MP2* | *2.0* | *192 Kbps*
 |||| *QAA* | *MP2* | *2.0* | *192 Kbps*
 
-#### Chaine Italienne
+	* Chaine Italienne
 
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |:---: | :---: | :---: | :---: | :---: | :---: | :---:|
