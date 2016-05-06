@@ -16,7 +16,6 @@
 
 | Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-
 Arte | 1920x1080 | MPEG-4 | FRA | AC3 | 2.0 | 256 Kbps
 |||| QAA | AC3 | 2.0 | 192 Kbps
 |||| GER | AC3 | 2.0 | 192 Kbps
