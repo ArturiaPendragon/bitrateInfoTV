@@ -18,7 +18,7 @@
 Chaine | Résolution | Codec | Langues | Codec audio | Canaux | Débits
 |:---: | :---: | :---: | :---: | :---: | :---: | :---:|
 AddickTV | 1920x1080 | MPEG-4 | FRA | AC-3 | 5.1 | 384 Kbps |
-Historia |  |  |  | |  | 384 Kbps |
+Historia | - | - | - | - | - | 384 Kbps |
 Moi & Cie Télé |  |  |  |  |  | 384 Kbps |
 MusiquePlus |  |  |  |  |  | 384 Kbps |
 RadioCanada |  |  |  |  |  | 384 Kbps |
