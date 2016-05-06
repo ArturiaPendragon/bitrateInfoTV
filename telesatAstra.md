@@ -59,3 +59,4 @@ TV5 Monde FBS | 1440x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 kbps
 MTV Dance | 544x576 | MPEG-4 | FRA | MP2 | 2.0 | 192 kbps
 MTV Rocks | 544x576 | MPEG-4 | FRA | MP2 | 2.0 | 192 kbps
 MTV Hits | 544x576 | MPEG-4 | FRA | MP2 | 2.0 | 192 kbps
+BBC World News | 1920x1080 | MPEG-4 | ENG | AC-3 | 2.0 | 192 kbps
