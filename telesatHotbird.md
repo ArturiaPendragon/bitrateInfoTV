@@ -41,5 +41,5 @@ Trek | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 kbps
 |||| TUR | MP2 | 2.0 | 192 Kbps
 Toute l’histoire | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 kbps
 TV5 Monde Europe | 1440x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 kbps
-AB Moteurs | MPEG-4 | FRA | AC-3 | 2.0 | 192 kbps
+AB Moteurs | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 kbps
 |||| TUR | MP2 | 2.0 | 192 Kbps
