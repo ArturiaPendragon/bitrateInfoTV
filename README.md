@@ -17,15 +17,19 @@
 
 #### Tables des matières
 
-  * [TNT (DVB-T)](doc/tnt.md)
-  * [Freebox (ADSL/Fibre)](doc/freebox.md)
-  * [BISTV (DVB-S/S2) - Eutelsat 5°W](doc/bistvEutelsat.md)
-  * [TNTSAT (DVB-S/S2) - Astra 19,2°E](doc/tntsatAstra.md)
-  * [TELESAT (DVB-S/S2) - Astra 19,2°E](doc/telesatAstra.md)
-  * [TELESAT (DVB-S/S2) - Hotbird 13°E](doc/telesatHotbird.md)
-  * [SSR/SRG (DVB-S/S2) - Hotbird 13°E](doc/ssrsrgHotbird.md)
-  * [Freebox (ADSL/Fibre)](doc/freebox.md)
-  * [Bell Fibe (ADSL/Fibre)](doc/bellFibe.md) 
+  * Hertzien et câble DVB-T
+	* [TNT (DVB-T)](doc/tnt.md)
+
+  * Satellite
+  	* [BISTV (DVB-S/S2) - Eutelsat 5°W](doc/bistvEutelsat.md)
+  	* [TNTSAT (DVB-S/S2) - Astra 19,2°E](doc/tntsatAstra.md)
+  	* [TELESAT (DVB-S/S2) - Astra 19,2°E](doc/telesatAstra.md)
+  	* [TELESAT (DVB-S/S2) - Hotbird 13°E](doc/telesatHotbird.md)
+  	* [SSR/SRG (DVB-S/S2) - Hotbird 13°E](doc/ssrsrgHotbird.md)
+  	
+  * ADSL/Fibre
+  	* [Freebox (ADSL/Fibre)](doc/freebox.md)
+  	* [Bell Télé Fibe (ADSL/Fibre)](doc/bellFibe.md) 
 
 ----------
 
