@@ -4,15 +4,15 @@
 
 #### Tables des matières
 
-  * [TNT (DVB-T)](../tnt.md)
-  * [Freebox (ADSL/Fibre)](../freebox.md)
-  * [BISTV (DVB-S/S2) - Eutelsat 5°W](../bistvEutelsat.md)
-  * [TNTSAT (DVB-S/S2) - Astra 19,2°E](../tntsatAstra.md)
-  * [TELESAT (DVB-S/S2) - Astra 19,2°E](../telesatAstra.md)
-  * [TELESAT (DVB-S/S2) - Hotbird 13°E](../telesatHotbird.md)
-  * [SSR/SRG (DVB-S/S2) - Hotbird 13°E](../ssrsrgHotbird.md)
-  * [Freebox (ADSL/Fibre)](../freebox.md)
-  * [Bell Télé Fibe (Fibre)](../bellFibe.md) 
+  * [TNT (DVB-T)](../doc/tnt.md)
+  * [Freebox (ADSL/Fibre)](../doc/freebox.md)
+  * [BISTV (DVB-S/S2) - Eutelsat 5°W](../doc/bistvEutelsat.md)
+  * [TNTSAT (DVB-S/S2) - Astra 19,2°E](../doc/tntsatAstra.md)
+  * [TELESAT (DVB-S/S2) - Astra 19,2°E](../doc/telesatAstra.md)
+  * [TELESAT (DVB-S/S2) - Hotbird 13°E](../doc/telesatHotbird.md)
+  * [SSR/SRG (DVB-S/S2) - Hotbird 13°E](../doc/ssrsrgHotbird.md)
+  * [Freebox (ADSL/Fibre)](../doc/freebox.md)
+  * [Bell Télé Fibe (Fibre)](../doc/bellFibe.md) 
 
 ----------
 
