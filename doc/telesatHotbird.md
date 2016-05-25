@@ -29,7 +29,6 @@ France 5 | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 Kbps
 NT1 | 720x576 | MPEG-4 | FRA | MP2 | 2.0 | 192 kbps
 France 4 | 720×576 | MPEG-4 | FRA | MP2 | 2.0 | 192 kbps
 |||| QAA | MP2 | 2.0 | 192 Kbps
-D17 | 720x576 | MPEG-4 | FRA | MP2 | 2.0 | 192 kbps
 Gulli | 720x576 | MPEG-4 | FRA | MP2 | 2.0 | 192 kbps
 Science & Vie TV | 1920x1080 | MPEG-4 | FRA | AC-3 | 2.0 | 192 kbps
 |||| TUR | MP2 | 2.0 | 192 Kbps
