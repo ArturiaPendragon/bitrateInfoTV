@@ -134,3 +134,10 @@ Paramount Channel HD | 1440x1080 | MPEG-4 | FRE | AAC | 2.0 | 64 Kbps
 National Geographic Channel HD | 1440x1080 | MPEG-4 | FRE | AAC | 2.0 | 64 Kbps
 Game One Music HD | 1440x1080 | MPEG-4 | FRE | AAC | 2.0 | 192 Kbps
 Virgin Radio TV | 720x576 | MPEG-4 | FRE | AAC | 2.0 | 96 Kbps
+Clubbing TV (BD) | 720x576 | MPEG-4 | ENG | AAC | 2.0 | 160 Kbps
+Clubbing TV HD | 1280x720 | MPEG-4 | ENG | AAC | 2.0 | 192 Kbps
+TV5 Monde FBS (SD) | 720x576 | MPEG-4 | FRE | MP2 | 2.0 | 192 Kbps
+TV5 Monde FBS | 1440x1080 | MPEG-4 | FRE | AAC | 2.0 | 64 Kbps
+BFM Business (BD) | 720x576 | MPEG-4 | FRE | AAC | 2.0 | 64 Kbps
+BFM Business FBS | 1440x1080 | MPEG-4 | FRE | AAC | 2.0 | 64 Kbps
+Euronews (SD) | 720x576 | MPEG-4 | FRE | AAC | 1.0 | 64 Kbps
