@@ -29,19 +29,19 @@ France 3 | 1440x1080 | MPEG-4 | FRA | MP2 | 2.0 | 192 Kbps
 Canal+ | 1920x1080 | MPEG-4 | FRA | E-AC3 | 1.0/2.0 | 128/224 Kbps
 |||| QAA | E-AC3 | 1.0/2.0 | 128/224 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
-France 5 | 1440x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
+France 5 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
-M6 | 1440x1080 | MPEG-4 | FRA | E-AC3 | 5.1 | 192 Kbps
+M6 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 5.1 | 192 Kbps
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
-Arte | 1440x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
+Arte | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| GER | E-AC3 | 2.0 | 96 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 D8 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
 |||| ENG | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 128 Kbps
-W9 | 1440x1080 | MPEG-4 | FRA | E-AC3 | 5.1 | 192 Kbps
+W9 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 5.1 | 192 Kbps
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 TMC | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
@@ -70,7 +70,7 @@ HD1 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 L'Equipe 21 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
-6ter | 1440x1080 | MPEG-4 | FRA | E-AC3 | 5.1 | 192 Kbps
+6ter | 1920x1080 | MPEG-4 | FRA | E-AC3 | 5.1 | 192 Kbps
 |||| QAA | E-AC3 | 2.0 | 128 Kbps
 |||| QAD | E-AC3 | 2.0 | 96 Kbps
 Numéro 23 | 1920x1080 | MPEG-4 | FRA | E-AC3 | 2.0 | 128 Kbps
